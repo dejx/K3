@@ -11,7 +11,8 @@ Nevermore.
 ## motors
 - xy motors LDO-42STH48-2004MAH(ANX)
 - z motors LDO-42STH48-2504AH(ANX)
-- extruder LDO-36STH17-1004AH(G8T)
+- ~~extruder LDO-36STH17-1004AH(G8T)~~
+- extruder LDO-36STH20-1004AHIG(8T)
 
 ## drivers
 - xy drivers fysetc tmc5160 big v1.0
