@@ -93,6 +93,16 @@ enable_force_move: true
 #*# max_x = 140.0
 #*# min_y = 20.0
 #*# max_y = 140.0
+#*#
+#*# [extruder]
+#*# pid_version = 1
+#*# pid_target = 260.00
+#*# pid_tolerance = 0.0200
+#*# control = pid
+#*# pid_kp = 16.559
+#*# pid_ki = 0.721
+#*# pid_kd = 95.108
+#*#
 #*# [heater_bed]
 #*# pid_version = 1
 #*# pid_target = 100.00
